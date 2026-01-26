@@ -12,7 +12,7 @@
         "Allowoffline": false
     },
     {
-        "device_id": "f9f1b1529dcf1f74",
+        "device_id": "gg",
         "key": "1234",
         "expirydate": "1-03-2026",
         "Allowoffline": true
@@ -30,7 +30,7 @@
         "Allowoffline": false
     },
     {
-        "device_id": "f9f1b1529dcf1f74",
+        "device_id": "gg",
         "key": "key",
         "expirydate": "14-06-2026",
         "Allowoffline": false
