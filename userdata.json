@@ -1,20 +1,20 @@
-tu[
+[
     {
-        "device_id": "yy",
-        "key": "days2go",
-        "expirydate": "11-05-2026",
+        "device_id": "device123",
+        "key": "key12345",
+        "expirydate": "31-12-2025",
         "Allowoffline": true
     },
     {
         "device_id": "c209d5fa20944de3",
         "key": "1234",
-        "expirydate": "11-07-2026",
+        "expirydate": "01-06-2026",
         "Allowoffline": false
     },
     {
-        "device_id": "gg",
-        "key": "1234",
-        "expirydate": "1-03-2026",
+        "device_id": "device123",
+        "key": "key12345",
+        "expirydate": "31-12-2025",
         "Allowoffline": true
     },
     {
@@ -22,24 +22,5 @@ tu[
         "key": "key67890",
         "expirydate": "15-06-2025",
         "Allowoffline": false
-    },
-    {
-        "device_id": "yyy",
-        "key": "key",
-        "expirydate": "14-06-2026",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "gg",
-        "key": "key",
-        "expirydate": "14-06-2026",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "f9f1b1529dcf1f74",
-        "key": "123456",
-        "expirydate": "14-06-2026",
-        "Allowoffline": false
     }
-    
 ]
