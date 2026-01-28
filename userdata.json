@@ -1,4 +1,4 @@
-[
+tu[
     {
         "device_id": "yy",
         "key": "days2go",
@@ -6,8 +6,8 @@
         "Allowoffline": true
     },
     {
-        "device_id": "gg",
-        "key": "123",
+        "device_id": "c209d5fa20944de3",
+        "key": "1234",
         "expirydate": "11-07-2026",
         "Allowoffline": false
     },
